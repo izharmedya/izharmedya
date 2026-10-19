@@ -16,6 +16,7 @@ Yaratıcı projeler, video üretim araçları ve küçük web uygulamaları geli
 | [SyncParty](https://github.com/izharmedya/syncparty) | Birlikte senkron video izleme, sohbet ve sesli görüşme |
 | [Video Downloader](https://github.com/izharmedya/video-downloader) | `yt-dlp` tabanlı, yerel ve parola korumalı indirme arayüzü |
 | [Ses Düzenleyici](https://github.com/izharmedya/ses-duzenleyici) | macOS için uygulama bazlı ses mikseri |
+| [Black Hole Simulator](https://github.com/izharmedya/black-hole-simulator) | WebGL ile kara delik görselleştirmesi |
 | [İzhar Medya Portföyü](https://github.com/izharmedya/-zhar-Meyda-Portf-y) | Video kurgu ve yaratıcı işler için duyarlı portföy sitesi |
 
 Projelerdeki kurulum, lisans ve güvenlik bilgileri ilgili depoların README dosyalarında yer alır.
